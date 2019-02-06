@@ -1,1 +1,2 @@
-# airtest
+airtest目录为基于Airtest框架编写的梦幻西游手游龙宫师门任务脚本。
+pocotest目录为基于Poco框架编写的Demo自动化脚本。
